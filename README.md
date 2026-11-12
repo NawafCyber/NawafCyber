@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./مكتب البرمج نواف المطرفي.png" width="700" alt="I'm Nawaf Almtrafi">
+</p>
+
 <h1 align="center">Hi 👋, I'm Nawaf</h1>
 
 <p align="center">
