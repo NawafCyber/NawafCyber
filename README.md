@@ -67,14 +67,7 @@ An AI-powered project designed to analyze URLs and detect potential phishing att
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NawafCyber&show_icons=true&hide_border=true" alt="GitHub Stats">
-</p>
-
----
+  
 
 <p align="center">
   🌱 <i>Building my knowledge, one step at a time.</i>
