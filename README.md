@@ -1,6 +1,3 @@
-
-<img width="1014" height="652" alt="image" src="https://github.com/user-attachments/assets/26f98bc2-ada7-459b-adcc-8709091a08cc" />
-
 <h1 align="center">Hi 👋, I'm Nawaf</h1>
 
 <p align="center">
