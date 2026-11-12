@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./مكتب البرمج نواف المطرفي.png" width="700" alt="I'm Nawaf Almtrafi">
+  <img src="https://raw.githubusercontent.com/NawafCyber/NawafCyber/main/banner.png" width="700" alt="I'm Nawaf Almtrafi">
 </p>
 
 <h1 align="center">Hi 👋, I'm Nawaf</h1>
