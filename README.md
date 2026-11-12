@@ -34,11 +34,17 @@
 
 ---
 
-### 🛡️ Featured Project
+<h3>🤖 AI Phishing Detector</h3>
 
-<h3>AI Phishing Detector</h3>
+<p>
+An AI-powered project designed to analyze URLs and detect potential phishing attempts by identifying suspicious patterns and security indicators.
+</p>
 
-A project I presented that focuses on detecting potentially malicious links and identifying indicators related to phishing attempts.
+<p>
+  🔗 <a href="https://github.com/NawafCyber/AI-Phishing-Detector">
+    Click here to view the project
+  </a>
+</p>
 
 ---
 
