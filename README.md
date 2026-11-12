@@ -56,7 +56,7 @@ A project I presented that focuses on detecting potentially malicious links and 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nawaf-almtrafi-43b62737b/?skipRedirect=true">
-    LinkedIn
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn">
   </a>
 </p>
 
